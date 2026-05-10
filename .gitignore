@@ -11,6 +11,7 @@ build
 .vinxi
 .nitro
 .tanstack
+ .vscode
 
 # Environment variables
 .env
