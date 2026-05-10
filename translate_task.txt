@@ -1,0 +1,4 @@
+Translate the following file from English to Russian. Replace the content of the original file with the Russian translation. Maintain the original Markdown structure, formatting, links, and code blocks. Only translate the text content.
+File: README.md
+
+Ensure the tone is professional and suitable for technical documentation. Preserve all technical terms that are commonly used in English (e.g., 'commit', 'branch', 'PR', 'API', 'Docker', etc.) if they are standard in the Russian dev community, or provide the translation with the English term in parentheses if appropriate.
